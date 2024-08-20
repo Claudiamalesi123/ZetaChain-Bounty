@@ -7,6 +7,8 @@ Welcome to the **Decentralized Crowdfunding Platform**! This app allows users to
 
 **App URL deployed on Streamlit:** [Decentralized Crowdfunding Platform](https://zetachain-bounty-claudiamalesi.streamlit.app/)
 
+NOTE: IF THE APP SLEEPS, JUST GET IT BACK UP !
+
 ## Overview
 
 This application is built using Streamlit and includes functionality to:
